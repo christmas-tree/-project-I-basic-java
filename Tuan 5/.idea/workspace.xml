@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7639ad81-de50-472d-8dc9-b618ef08a8b9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R8AL3uC5odNEzmHMFohCAJbpkc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.bai8">
+    <configuration name="bai10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tran_trung_nghia_20173281.bai10" />
+      <module name="Tuan 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tran_trung_nghia_20173281.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tran_trung_nghia_20173281.bai11" />
+      <module name="Tuan 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tran_trung_nghia_20173281.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tran_trung_nghia_20173281.bai12" />
+      <module name="Tuan 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tran_trung_nghia_20173281.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tran_trung_nghia_20173281.bai6" />
+      <module name="Tuan 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tran_trung_nghia_20173281.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tran_trung_nghia_20173281.bai8" />
+      <module name="Tuan 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tran_trung_nghia_20173281.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bai8" />
+        <item itemvalue="Application.bai6" />
+        <item itemvalue="Application.bai12" />
+        <item itemvalue="Application.bai11" />
+        <item itemvalue="Application.bai10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7639ad81-de50-472d-8dc9-b618ef08a8b9" name="Default Changelist" comment="" />
+      <created>1569038289621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569038289621</updated>
+      <workItem from="1569038294182" duration="40000" />
+      <workItem from="1569038699530" duration="1080000" />
+      <workItem from="1569040626111" duration="591000" />
+      <workItem from="1569122656767" duration="2742000" />
+      <workItem from="1569472795405" duration="9032000" />
+      <workItem from="1569569871045" duration="42000" />
+      <workItem from="1569569973382" duration="494000" />
+      <workItem from="1569570482646" duration="2625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
